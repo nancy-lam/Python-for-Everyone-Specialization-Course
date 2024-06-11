@@ -20,12 +20,13 @@
 <p>* Read/write files in Python</p>
 </ol>
    
-<ol><a href='3_Using_Python_to_Access_Web_Data'> 3. Using python to Access Web Data</a>
+<ol><a href='3_Using_Python_to_Access_Web_Data'> 3. Using Python to Access Web Data</a>
 <p></p>
 <p>* Scraping Numbers from HTML using BeautifulSoup</p> 
 <p>* Exploring the HyperText Transport Protocol using socket</p>
 <p>* Python RegEx</p>
 <p>* Use urllib and json for web scraping</p>
+<p>* Object-Oriented Programming</p>
 </ol>
 
 <ol><a href='4_Using_Databases_with_Python'> 4. Using Databases with Python</a>
